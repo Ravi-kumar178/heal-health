@@ -1,0 +1,10 @@
+.first{
+  background-image:  linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0))
+    
+}
+
+.name{
+  border-bottom: 2px solid gray;
+  margin:10px;
+  padding: 10px 0px;
+}

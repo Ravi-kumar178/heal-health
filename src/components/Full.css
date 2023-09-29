@@ -1,0 +1,42 @@
+
+
+.feature1{
+    background: #acadae;
+    background: linear-gradient(to bottom right, #1D7CCF 41%, #CFB8A1 96%);
+    letter-spacing: 1px;
+}
+
+.firstPara{
+    text-shadow: 2px 2px 2px rgb(210, 210, 210);
+}
+
+.imagee1{
+    transition: all ease-in 200ms;
+}
+
+.imagee1:hover{
+    box-shadow: 5px 5px 5px rgb(210, 210, 210), -5px -5px 5px rgb(210, 210, 210);
+    transform: scale(1.1);
+}
+
+.imagee2{
+    filter:grayscale(40%);
+    transition: all ease-in 200ms;
+}
+
+.imagee2:hover{
+    transform: scale(1.03);
+    box-shadow: 5px 5px 5px #ece9e9, -5px -5px 5px #ece9e9;
+    filter: grayscale(0);
+    
+}
+
+
+.image3:hover{
+    filter:drop-shadow(0 0 10px #333);
+}
+
+.imgee{
+    border-radius: 55%;
+}
+
